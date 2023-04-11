@@ -1,0 +1,8 @@
+
+#Btns{
+    color: brown;
+}
+
+#BtnS:hover{
+    cursor: pointer;
+}
